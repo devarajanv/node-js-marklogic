@@ -28,7 +28,7 @@ $npm install marklogic --save
 $npm install str-reverse
  
 # Edit/Run the javascript 
-Edit/Run the javascript file(ml-create-doc.js). This is a simple java script code which prints text in console output file(hello-world.js). 
+Edit/Run the javascript file(ml-create-doc.js). This creates a JSON document, inserts it into MarkLogic Database(Documents Database) by making a REST API interface call.
 $ node ml-create-doc.js
 
 # Output
